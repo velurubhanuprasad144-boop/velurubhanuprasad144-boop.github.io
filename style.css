@@ -73,3 +73,12 @@ footer {
         padding: 1.5rem 0.5rem 0.5rem 0.5rem;
     }
 }
+.profile-pic {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid #2c3e50;
+    display: block;
+    margin: 0 auto 1rem auto;
+}
